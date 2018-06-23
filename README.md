@@ -14,7 +14,9 @@ Perform the following tasks -
 4. Tag each review according to the presence of the following words: ’service’, ’price’, ’handling’, ’interior’. The tag can be in the ﬁfth column. It is possible that you will have multiple tags per review.
 5. There are several lexicons that help compute sentiment analysis (bing, aﬁnn, nrc etc.). Use any sentiment analysis text to compute the sentiment of each review.
 6. Give the following information:
+
 (a) What is the average sentiment rating of the reviews in the training set of the Toyota Camry? Compare to average star rating provided by user. 
+
 (b) What is the average sentiment rating of the reviews corresponding to each of the 4 tags? Compare to average star rating provided by user and also to average star rating from 6a
 7. Build a model that can predict the star rating given the sentiment analysis you compute. The model should be built using just the training data. Use any type of model you choose
 8. Use the model you built in 7 to predict the star rating of the test reviews. What is the accuracy of your model. Remember this is not an exercise in optimizing your model, so don’t spend too much time on this part of the assignment.
