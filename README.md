@@ -2,7 +2,8 @@
 
 Objectives:
 
----Analyzing Toyota Camry car reviews 
+---Analyzing Toyota Camry car reviews
+
 The reviews are available online and you will be programmatically downloading them. https://www.cars.com/research/toyota-camry/ We are speciﬁcally interested in the 2012 - 2017 Camry model. You will be using the 2012, 2013, 2014, 2015 and 2016 reviews for training and the 2017 reviews for testing purposes.
 
 Perform the following tasks -
